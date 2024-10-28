@@ -1,4 +1,4 @@
-package fes.aragon;
+package fes.aragon.modulo;
 
 public class Caja {
     boolean foco;

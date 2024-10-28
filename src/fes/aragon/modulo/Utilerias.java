@@ -1,4 +1,4 @@
-package fes.aragon;
+package fes.aragon.modulo;
 
 import java.util.Random;
 
@@ -16,7 +16,7 @@ public class Utilerias {
         if (i<=60){
             Cliente cliente=new Cliente();
             return cliente;
-        }else {
+        } else {
             return new Cliente();
         }
     }

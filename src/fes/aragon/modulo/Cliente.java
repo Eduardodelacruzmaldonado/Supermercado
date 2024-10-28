@@ -1,6 +1,4 @@
-package fes.aragon;
-
-import java.util.Random;
+package fes.aragon.modulo;
 
 public class Cliente {
     int tiempoEnCaja;
