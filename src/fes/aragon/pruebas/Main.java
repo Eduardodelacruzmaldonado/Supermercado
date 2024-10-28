@@ -1,7 +1,8 @@
 package fes.aragon.pruebas;
 
-import fes.aragon.Cliente;
+
 import fes.aragon.dinamicos.Cola;
+import fes.aragon.modulo.Cliente;
 
 public class Main {
     public static void main(String[] args) {
